@@ -4,6 +4,8 @@ use lazy_static::lazy_static;
 
 use std::fmt;
 
+pub use chrono::{Datelike, NaiveDate};
+
 lazy_static! {
     static ref START_DATE: NaiveDate = NaiveDate::from_ymd(2020, 1, 2);
     static ref CYCLE_LENGTH: Duration = Duration::days(28);

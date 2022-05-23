@@ -2,7 +2,7 @@
 name = "airac"
 description = "Utilities to parse and calculate AIRAC cycles."
 authors = ["Lily Hopkins <lily@hpkns.uk>"]
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 license = "MIT"
 homepage = "https://github.com/lilopkins/airac-rs"
