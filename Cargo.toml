@@ -4,6 +4,9 @@ description = "Utilities to parse and calculate AIRAC cycles."
 authors = ["Lily Hopkins <lily@hpkns.uk>"]
 version = "0.1.0"
 edition = "2021"
+license = "MIT"
+homepage = "https://github.com/lilopkins/airac-rs"
+repository = "https://github.com/lilopkins/airac-rs"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
